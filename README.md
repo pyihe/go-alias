@@ -86,3 +86,5 @@ func main() {
     fmt.Printf("删除元素后的采样结果为: %v\n", countInfo)
 }
 ```
+
+![sampling.png](img.png)
